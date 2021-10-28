@@ -1,8 +1,8 @@
 <h1 align="center"><b>✨ Natsuki ✨</b></h1>
 
-##  Are You Okay Baby I'm [NATSUKI](https://t.me/TheNatsukibot) 
+##  Are You Okay Baby I'm [MAYIL](https://t.me/Mayil_The_Group_Manager_Bot) 
 
-## Unmaintained. The new repo of [@TheNatsukiBot](https://t.me/TheNatsukibot) is public. 
+## Unmaintained. The new repo of [@Mayil_The_Group_Manager_Bot](https://t.me/Mayil_The_Group_Manager_Bot) is public. 
 
 ## ⚡ (It is no longer based on this source code. The completely rewritten bot available now on telegram)
 
@@ -15,7 +15,7 @@
   <a href="https://github.com/Sadew451/Natsuki/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square" /> </a>
 </p>
 
-<p align="center"><a href="https://t.me/NatsukiSupport_Official"><img src="https://telegra.ph/file/12a67bfae430322ceb2e8.jpg" width="400"></a></p>
+<p align="center"><a href="https://t.me/NatsukiSupport_Official"><img src="https://telegra.ph/file/d880824644673cbe49ea3.jpg" width="400"></a></p>
 <p align="center">
     <a href="https://app.codacy.com/manual/sadew451/Natsuki/dashboard"> <img src="https://img.shields.io/codacy/grade/4d58f2a402b54aed8a7d95f7add45a81?color=brightgreen&logo=codacy&logoColor=green&style=for-the-badge" alt="Codacy" /></a>
     <a href="https://github.com/sadew451/Natsuki"> <img src="https://img.shields.io/github/repo-size/sadew451/Natsuki?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
@@ -29,7 +29,7 @@
 
 # 🧙‍♀️ Deploy Guide
 
-## Complete guide on deploying @TheNatsukiBot's clone on Heroku.
+## Complete guide on deploying @Mayil_The_Group_Manager_Bot's clone on Heroku.
 
 ## This Tutorial is Old Bot Video But its Ok You Can Use it ✨
 
@@ -38,7 +38,7 @@
 ☆ Video by [SADEW JAYASEKARA](https://www.youtube.com/channel/UCdSBUUQ1v0_IIElBR_1B72w) ☆
 
 ### TeamNatsuki
-## Avaiilable on Telegram as [@TheNatsukiBot](https://t.me/thenatsukibot)
+## Avaiilable on Telegram as [@Mayil_The_Group_Manager_Bot](https://t.me/MG_Support_Group)
 
 # 🏃‍♂️ Easy Deploy 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Sadew451/Natsuki.git)
@@ -46,8 +46,8 @@
 <a href="https://www.youtube.com/channel/UCdSBUUQ1v0_IIElBR_1B72w"><img src="https://img.shields.io/badge/How%20To-Deploy-red.svg?logo=Youtube"></a>
 
 # ⚡ Support
-<a href="https://t.me/NatsukiSupport_Official"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
-<a href="https://t.me/Natsuki_updates"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
+<a href="https://t.me/MG_Support_Group"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
+<a href="https://t.me/mgbotslists"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
 
 ### Self-hosting (For Devs) ⚔
 ```sh
