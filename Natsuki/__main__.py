@@ -78,7 +78,7 @@ buttons = [
     ],
     [
         InlineKeyboardButton(
-            text="Source 🗒", url="Github.com/Sadew451"
+            text="My Creator", url="https://t.me/MayilM07"
         ),
         InlineKeyboardButton(
             text="Command Help ❓", callback_data="help_back"
@@ -92,10 +92,10 @@ buttons = [
     ],
 ]
 
-MAYIL_IMG = "https://telegra.ph/file/d880824644673cbe49ea3.jpg"
+MAYIL_IMG = "https://telegra.ph/file/ac56fd81f558778368c8a.jpg"
 
 HELP_STRINGS = f"""
-*Main Commands :* [🤖](https://telegra.ph/file/d880824644673cbe49ea3.jpg)
+*Main Commands :* [🤖](https://telegra.ph/file/ac56fd81f558778368c8a.jpg)
 
 /start: Starts me! You've probably already used this.
 /help: Click this, I'll let you know about myself!
@@ -111,7 +111,7 @@ HELP_STRINGS = f"""
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
 You can donate to the original writer's of the Base code,
-Support them  [SADEW JAYASEKARA](t.me/Darkridersslk)"""
+Support them  [MG](t.me/MayilM07)"""
 
 IMPORTED = {}
 MIGRATEABLE = []
